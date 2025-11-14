@@ -273,12 +273,6 @@ ccxt (OHLCV) ──► LiveDataPipeline ──► series_mats (open/high/low/clo
 
 ---
 
-## License
-
-Add your preferred license (MIT/Apache-2.0).
-
----
-
 ## Citation / Credit
 
 Built with ❤️ on top of:
